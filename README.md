@@ -16,7 +16,7 @@ Multi-Platform Support – Available on web, iOS, and Android.
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS
+Frontend: HTML, CSS, JAVASCRIPT
 
 Hosting: Netlify
 
